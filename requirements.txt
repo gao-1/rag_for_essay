@@ -1,0 +1,4 @@
+os
+dotenv
+pypdf
+langchain
